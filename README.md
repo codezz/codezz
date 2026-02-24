@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codezz
-- 👀 I’m interested in AI, Web2 and Web3 technologies
-- 🌱 I’m currently learning web3
+- 👀 I’m interested in AI and automations
+- 🌱 I’m currently working on remember.md
 - 📫 reach me at codez.ro
 
 <!---
